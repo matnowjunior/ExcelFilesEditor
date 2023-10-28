@@ -1,6 +1,8 @@
 This is a simple program that allows the user to write out two cells (in the format e.g. E5, B3 AB10) and then perform any operations in the space designated by these cells.
 
 In the given program, each cell in the space is colored based on the given interval values
+
+Program asks user to input to paths
  
 <0-30) --> red #F2220F 
 <30,50) --> yellow #F2A007
